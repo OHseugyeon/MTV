@@ -3,3 +3,4 @@
 myvenv
 db.sqlite3
 media
+echo .DS_Store >> .gitignore
